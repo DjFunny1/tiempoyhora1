@@ -8,7 +8,7 @@
     font-size: 30px;
     font-family: Orbitron;
     letter-spacing: 7px;
-    margin-left: 0.5rem;
+    margin-left: 2rem;
 }
 
 #pie {
@@ -18,9 +18,11 @@
     padding: 5px;
     color: rgba(0, 94, 255, 0.200);
     font-weight: bold;font-size: small;
+    margin-left: 2rem;
 }
 
 .weather {
-    margin-top: 3rem;
+    margin-top: 6rem;
+    margin-left: 2rem;
     width: 20rem;
 }
