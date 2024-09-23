@@ -5,7 +5,7 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #010101;
-    font-size: 50px;
+    font-size: 30px;
     font-family: Orbitron;
     letter-spacing: 7px;
     margin-left: 0.5rem;
@@ -17,5 +17,9 @@
     border-radius: 20px;
     padding: 5px;
     color: rgba(0, 94, 255, 0.200);
-    font-weight: bold;
+    font-weight: bold;font-size: small;
+}
+
+.weather {
+    width: 20rem;
 }
